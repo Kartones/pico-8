@@ -6,6 +6,6 @@ My tiny games for the great [PICO-8](http://www.lexaloffle.com/pico-8.php) virtu
 
 ![bomber_ghost screenshot](bomber_ghost.gif)
 
-- `squashy`: Slightly improved PICO-8 Zine article game.
+- `squashy`: Slightly improved PICO-8 Zine article game, a simplisctic Arkanoid/breakout.
 
 ![squashy screenshot](squashy.gif)
